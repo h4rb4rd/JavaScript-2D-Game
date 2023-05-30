@@ -1,1 +1,1 @@
-# js-game-dev
+# JavaScript-2D-Game
